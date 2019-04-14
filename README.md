@@ -4,9 +4,14 @@
 Clone this repository
 run the program in Jupyter Notebook
 import the following packages in terminal
-* import pandas
-- import googlemaps
-* import geocoder
+* pip install pandas
+- pip install googlemaps
+* pip install geocoder
+- pip install requests
+* pip install geopandas
+* pip install shapely
+- pip install geojsonio
+* pip install mpu
 ## Overlook of the Problem
 Build a HTTP server that can find the nearest available Boba shops to a particular customer Location
 
