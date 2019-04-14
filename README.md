@@ -2,8 +2,11 @@
 
 ## Execution of Code
 Clone this repository
-run the program in Jupyter Notebook using the shell file
-
+run the program in Jupyter Notebook
+import the following packages in terminal
+* import pandas
+- import googlemaps
+* import geocoder
 ## Overlook of the Problem
 Build a HTTP server that can find the nearest available Boba shops to a particular customer Location
 
