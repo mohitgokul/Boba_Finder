@@ -1,0 +1,9 @@
+geocoder==1.38.1
+geojsonio==0.0.3
+geopandas==0.4.1
+googlemaps==3.0.2
+mpu==0.17.0
+munch==2.3.2
+numpy==1.16.2
+pandas==0.24.2
+Shapely==1.6.4.post2
