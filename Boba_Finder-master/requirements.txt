@@ -1,6 +1,6 @@
 geocoder==1.38.1
 geojsonio==0.0.3
-geopandas==0.4.1
+geopandas==1.1.2
 googlemaps==3.0.2
 mpu==0.17.0
 munch==2.3.2
